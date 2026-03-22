@@ -75,6 +75,7 @@ a {
   letter-spacing: 0.04em;
   color: #fff;
   background-color: #4d5ae5;
+  cursor: pointer;
 }
 
 .hero-button:hover,
@@ -117,6 +118,7 @@ a {
 }
 
 .team {
+  background-color: #f4f4fd;
 }
 
 .team-title {
@@ -126,7 +128,6 @@ a {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
-  background-color: #f4f4fd;
 }
 
 .team-list {
